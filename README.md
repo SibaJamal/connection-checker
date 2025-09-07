@@ -1,16 +1,34 @@
-# connection_checker
+#  ✅ connection_checker
+![Flutter](https://img.shields.io/badge/Flutter-Framework-blue)
+![Dart](https://img.shields.io/badge/Dart-Language-blueviolet)
 
-A new Flutter project.
 
-## Getting Started
+## 📖 About the Project
+🚀 A simple Flutter app that checks the device's 🌐 internet connection status, including whether it's ✅ online or ❌ offline, connected via 📶 WiFi or 📱 mobile data, and detects if there is an active 🛡️ VPN connection.
 
-This project is a starting point for a Flutter application.
+🔧 Built using the connectivity_plus package for reliable 📡 network status monitoring.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📱 Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <img src="screenshoots/connection1.png" width="200" />
+  <img src="screenshoots/connection2.png" width="200" />
+  <img src="screenshoots/connection3.png" width="200" />
+
+</p>
+
+---
+
+## 🛠️ Built With
+- [Flutter](https://flutter.dev/) – Cross-platform framework  
+- [Dart](https://dart.dev/) – Programming language  
+
+
+
+
+
+
+
+
