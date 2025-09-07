@@ -13,9 +13,9 @@
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="screenshoots/connection1.png" width="200" />
-  <img src="screenshoots/connection2.png" width="200" />
-  <img src="screenshoots/connection3.png" width="200" />
+  <img src="screenshoots/connection1.jpg" width="200" />
+  <img src="screenshoots/connection2.jpg" width="200" />
+  <img src="screenshoots/connection3.jpg" width="200" />
 
 </p>
 
